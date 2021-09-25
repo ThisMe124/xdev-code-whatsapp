@@ -1,0 +1,1 @@
+exports.yag = require('./yag')
